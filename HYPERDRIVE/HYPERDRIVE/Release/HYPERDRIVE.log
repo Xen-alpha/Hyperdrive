@@ -1,0 +1,23 @@
+﻿Build started 2018-03-03 오전 4:13:28.
+     1>Project "C:\Users\황경윤\Documents\Visual Studio 2013\Projects\HYPERDRIVE(1)\HYPERDRIVE\HYPERDRIVE\HYPERDRIVE.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt HD_Framework.cpp HD_Framework_Sub.cpp HD_Game.cpp HD_Menu.cpp HD_Object.cpp HD_Player.cpp main.cpp
+         HD_Framework.cpp
+     1>c:\users\황경윤\documents\visual studio 2013\projects\hyperdrive(1)\hyperdrive\hyperdrive\HD_Framework_Sub.h(8): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+         HD_Framework_Sub.cpp
+     1>c:\users\황경윤\documents\visual studio 2013\projects\hyperdrive(1)\hyperdrive\hyperdrive\HD_Framework_Sub.h(8): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+         HD_Game.cpp
+     1>c:\users\황경윤\documents\visual studio 2013\projects\hyperdrive(1)\hyperdrive\hyperdrive\HD_Framework_Sub.h(8): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+         HD_Menu.cpp
+     1>c:\users\황경윤\documents\visual studio 2013\projects\hyperdrive(1)\hyperdrive\hyperdrive\HD_Framework_Sub.h(8): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+         HD_Object.cpp
+     1>c:\users\황경윤\documents\visual studio 2013\projects\hyperdrive(1)\hyperdrive\hyperdrive\HD_Framework_Sub.h(8): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+         HD_Player.cpp
+     1>c:\users\황경윤\documents\visual studio 2013\projects\hyperdrive(1)\hyperdrive\hyperdrive\HD_Framework_Sub.h(8): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+         main.cpp
+     1>c:\users\황경윤\documents\visual studio 2013\projects\hyperdrive(1)\hyperdrive\hyperdrive\HD_Framework_Sub.h(8): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+     1>Done Building Project "C:\Users\황경윤\Documents\Visual Studio 2013\Projects\HYPERDRIVE(1)\HYPERDRIVE\HYPERDRIVE\HYPERDRIVE.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.75

@@ -1,0 +1,198 @@
+배경화면 패턴
+
+case 1:
+		Object_ingame[i].LoadSprite("resource/pattern1.png");
+		bg_pattern_determined = true;
+		break;
+	case 2:
+		Object_ingame[i].LoadSprite("resource/pattern1_2.png");
+		bg_pattern_determined = true;
+		break;
+	case 3:
+		Object_ingame[i].LoadSprite("resource/pattern1_3.png");
+		bg_pattern_determined = true;
+		break;
+	case 4:
+		Object_ingame[i].LoadSprite("resource/pattern1A.png");
+		bg_pattern_determined = true;
+		break;
+	case 5:
+		Object_ingame[i].LoadSprite("resource/pattern1B.png");
+		bg_pattern_determined = true;
+		break;
+	case 6:
+		Object_ingame[i].LoadSprite("resource/pattern1A_2.png");
+		bg_pattern_determined = true;
+		break;
+	case 7:
+		Object_ingame[i].LoadSprite("resource/pattern1B_2.png");
+		bg_pattern_determined = true;
+		break;
+	case 9:
+		Object_ingame[i].LoadSprite("resource/pattern2.png");
+		bg_pattern_determined = true;
+		break;
+	case 10:
+		Object_ingame[i].LoadSprite("resource/pattern2_i.png");
+		bg_pattern_determined = true;
+		break;
+	case 11:
+		Object_ingame[i].LoadSprite("resource/pattern2_1.png");
+		bg_pattern_determined = true;
+		break;
+	case 12:
+		Object_ingame[i].LoadSprite("resource/pattern2_1_i.png");
+		bg_pattern_determined = true;
+		break;
+	case 13:
+		Object_ingame[i].LoadSprite("resource/pattern2_2.png");
+		bg_pattern_determined = true;
+		break;
+	case 14:
+		Object_ingame[i].LoadSprite("resource/pattern2_3.png");
+		bg_pattern_determined = true;
+		break;
+	case 15:
+		Object_ingame[i].LoadSprite("resource/pattern2_4.png");
+		bg_pattern_determined = true;
+		break;
+	case 16:
+		Object_ingame[i].LoadSprite("resource/pattern2_5.png");
+		bg_pattern_determined = true;
+		break;
+	case 17:
+		Object_ingame[i].LoadSprite("resource/pattern2_5_i.png");
+		bg_pattern_determined = true;
+		break;
+	case 18:
+		Object_ingame[i].LoadSprite("resource/pattern2_6.png");
+		bg_pattern_determined = true;
+		break;
+	case 19:
+		Object_ingame[i].LoadSprite("resource/pattern2_7.png");
+		bg_pattern_determined = true;
+		break;
+	case 20:
+		Object_ingame[i].LoadSprite("resource/pattern2_7_a.png");
+		bg_pattern_determined = true;
+		break;
+	case 21:
+		Object_ingame[i].LoadSprite("resource/pattern2_8.png");
+		bg_pattern_determined = true;
+		break;
+	case 22:
+		Object_ingame[i].LoadSprite("resource/pattern2_8_a.png");
+		bg_pattern_determined = true;
+		break;
+	case 23:
+		Object_ingame[i].LoadSprite("resource/pattern2_9.png");
+		bg_pattern_determined = true;
+		break;
+	case 24:
+		Object_ingame[i].LoadSprite("resource/pattern2_9_i.png");
+		bg_pattern_determined = true;
+		break;
+	case 25:
+		Object_ingame[i].LoadSprite("resource/pattern2_10.png");
+		bg_pattern_determined = true;
+		break;
+	case 26:
+		Object_ingame[i].LoadSprite("resource/pattern2_10_i.png");
+		bg_pattern_determined = true;
+		break;
+	case 27:
+		Object_ingame[i].LoadSprite("resource/pattern2_11.png");
+		bg_pattern_determined = true;
+		break;
+	case 30:
+		Object_ingame[i].LoadSprite("resource/pattern_3_1.png");
+		bg_pattern_determined = true;
+		break;
+	case 31:
+		Object_ingame[i].LoadSprite("resource/pattern_3_2.png");
+		bg_pattern_determined = true;
+		break;
+	case 32:
+		Object_ingame[i].LoadSprite("resource/pattern_3_3.png");
+		bg_pattern_determined = true;
+		break;
+	case 33:
+		Object_ingame[i].LoadSprite("resource/pattern_4.png");
+		bg_pattern_determined = true;
+		break;
+	case 34:
+		Object_ingame[i].LoadSprite("resource/pattern_4_2.png");
+		bg_pattern_determined = true;
+		break;
+	case 35:
+		Object_ingame[i].LoadSprite("resource/pattern_4_3.png");
+		bg_pattern_determined = true;
+		break;
+	case 36:
+		Object_ingame[i].LoadSprite("resource/pattern_4_4.png");
+		bg_pattern_determined = true;
+		break;
+	case 37:
+		Object_ingame[i].LoadSprite("resource/pattern_4_5.png");
+		bg_pattern_determined = true;
+		break;
+	case 38:
+		Object_ingame[i].LoadSprite("resource/pattern_4_6.png");
+		bg_pattern_determined = true;
+		break;
+	case 39:
+		Object_ingame[i].LoadSprite("resource/pattern_4_7.png");
+		bg_pattern_determined = true;
+		break;
+	case 40:
+		Object_ingame[i].LoadSprite("resource/pattern_4_8.png");
+		bg_pattern_determined = true;
+		break;
+	case 41:
+		Object_ingame[i].LoadSprite("resource/pattern_4_9.png");
+		bg_pattern_determined = true;
+		break;
+	case 42:
+		Object_ingame[i].LoadSprite("resource/pattern_4_10.png");
+		bg_pattern_determined = true;
+		break;
+	case 49:
+		Object_ingame[i].LoadSprite("resource/pattern_5.png");
+		bg_pattern_determined = true;
+		break;
+	case 50:
+		Object_ingame[i].LoadSprite("resource/pattern_5_i.png");
+		bg_pattern_determined = true;
+		break;
+	case 51:
+		Object_ingame[i].LoadSprite("resource/pattern_5_1.png");
+		bg_pattern_determined = true;
+		break;
+	case 52:
+		Object_ingame[i].LoadSprite("resource/pattern_5_1_i.png");
+		bg_pattern_determined = true;
+		break;
+	case 53:
+		Object_ingame[i].LoadSprite("resource/pattern_5_2.png");
+		bg_pattern_determined = true;
+		break;
+	case 54:
+		Object_ingame[i].LoadSprite("resource/pattern_5_2_i.png");
+		bg_pattern_determined = true;
+		break;
+	case 55:
+		Object_ingame[i].LoadSprite("resource/pattern_5_3.png");
+		bg_pattern_determined = true;
+		break;
+	case 56:
+		Object_ingame[i].LoadSprite("resource/pattern_5_3_i.png");
+		bg_pattern_determined = true;
+		break;
+	case 60:
+		Object_ingame[i].LoadSprite("resource/pattern1C.png");
+		bg_pattern_determined = true;
+		break;
+	case 61:
+		Object_ingame[i].LoadSprite("resource/pattern1C_2.png");
+		bg_pattern_determined = true;
+		break;
